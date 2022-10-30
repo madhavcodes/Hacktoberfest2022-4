@@ -6,3 +6,5 @@ for i in str(x):
 print(sum)
 print("one")
 print("two")
+print("three")
+
