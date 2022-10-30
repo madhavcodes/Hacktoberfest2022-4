@@ -5,3 +5,4 @@ for i in str(x):
      sum+=x(i)
 print(sum)
 print("one")
+print("two")
